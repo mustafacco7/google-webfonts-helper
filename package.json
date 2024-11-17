@@ -23,11 +23,11 @@
     "url": "https://github.com/majodev/google-webfonts-helper.git"
   },
   "dependencies": {
-    "axios": "1.6.8",
+    "axios": "1.7.4",
     "bluebird": "3.7.2",
     "compression": "1.7.4",
     "css": "3.0.0",
-    "express": "4.19.2",
+    "express": "4.20.0",
     "jszip": "3.10.1",
     "lodash": "4.17.21",
     "morgan": "1.10.0",
@@ -51,7 +51,7 @@
     "errorhandler": "~1.0.0",
     "eslint": "^8.34.0",
     "file-type": "16.5.4",
-    "grunt": "~0.4.4",
+    "grunt": "~1.5.3",
     "grunt-angular-templates": "^0.5.4",
     "grunt-asset-injector": "^0.1.0",
     "grunt-autoprefixer": "~0.7.2",
